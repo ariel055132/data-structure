@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1541340489 source:e:\data_structure\assignment6\main.cpp
+	<iostream>
+	<malloc.h>
+	<stdlib.h>
+	<string>
+	<math.h>
+
