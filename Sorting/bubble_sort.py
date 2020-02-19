@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Feb 19 11:26:48 2020
-bubble sort implementation
+bubble sort implementation (not optimized)
 @author: cindy
 """
 def Bubble_Sort(array):
